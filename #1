@@ -1,0 +1,4 @@
+T="2009-06-15"
+date=T.split ("-")
+print (date)
+print (date[2] + "." + date [1] + "." + date[0])
