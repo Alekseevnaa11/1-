@@ -1,0 +1,5 @@
+a=23
+b=20
+c=13
+print(max(a,b,c))
+print(min(a,b,c))
