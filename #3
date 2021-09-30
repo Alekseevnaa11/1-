@@ -1,0 +1,8 @@
+a=2
+b=5
+c=6
+p=(a+b+c)/2
+print(p*2)
+S=math.sqrt(p*(p-a)*(p-b)*(p-c))
+print(S)
+ 
